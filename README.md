@@ -1,3 +1,61 @@
+# _NBA Super Player Mashup_
+
+#### By _Ted Gold_
+
+#### _A simple sandbox game where you can create a Super Player to shoot baskets with. Do you want Giannis' layup percentage, but Steph Curry's 3pt percentage? Now you can. This first person game allows you to see what it would be like to build a Super NBA Player._
+
+## Technologies Used
+
+* _Unity 2021.3.12f1_
+* _C#_
+* _Blender_
+
+## Description
+
+_In this FPS game, you can choose from the 10 top rated players in NBA 2k23, or the worst one, and build a player with the attributes for 3pt shooting, midrange shooting, and layup. Then you can shoot from different places on the court and see if you can make a basket or not. There is a main menu and a pause screen._
+
+### Controls
+``` WASD/Arrow Keys - Walk ```
+``` Mouse or Track Pad - Look around ```
+``` Left Click - Attack ```
+``` Space Bar - Jump ```
+``` Esc - Pause ```
+
+## Setup/Installation Requirements
+* _Play game through Unity Player: https://play.unity.com/mg/other/build-gvk ._
+* _Clone project from repo._
+* _Add project to projects list using Unity version_ ``` 2021.3.12f1 ```
+* _Check .gitignore to see missing files_
+
+## Known Bugs
+* _It is still possible to make a shot when it is technically a miss._
+
+## License
+
+_MIT License_
+
+_Copyright (c) [2022] [Ted Gold]_
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Copyright (c) _2022_ _Ted Gold_
+
 ### Research & Planning Log
 #### Friday, 12/2/22
 * 9:00: Watch tutorial videos on Unity 3d (https://www.youtube.com/watch?v=VbZ9_C4-Qbo&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6&index=9&ab_channel=Brackeys)
@@ -64,3 +122,4 @@
 * 10:15: Work on updating fonts
 * 10:45: Add bad player to options
 * 11:40: Add project to github repo
+* 1:30: End Of Day
